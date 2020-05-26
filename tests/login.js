@@ -2,7 +2,6 @@ module.exports = {
     '@tags': ['login'],
     'Test di Kalcare (Dekstop)'(browser){
      
-     const tentang_sf = '.about-button-text';
      const pass ='123456';
      const email ='noviantonugroho4@gmail.com';
 
