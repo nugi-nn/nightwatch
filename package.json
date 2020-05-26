@@ -1,0 +1,19 @@
+{
+  "name": "Kalcare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.conf.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^83.0.0",
+    "nightwatch": "^1.2.4"
+  },
+  "dependencies": {
+    "nightwatch-html-reporter": "^2.0.6"
+  }
+}
