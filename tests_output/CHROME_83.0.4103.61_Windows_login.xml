@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="login"
+    errors="0" failures="0" hostname="" id="" package="login" skipped="0"
+    tests="1" time="7.451" timestamp="">
+  
+    <testcase name="Test di Kalcare (Dekstop)" classname="login" time="7.451" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
